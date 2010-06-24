@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{mojo:site:link}</string>
+	<key>name</key>
+	<string>{mojo:site:link}</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>mojo</string>
+	<key>uuid</key>
+	<string>018F7561-20EC-48E4-B4C9-C1D76BC3116E</string>
+</dict>
+</plist>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>completions</string>
+	<key>settings</key>
+	<dict>
+		<key>completions</key>
+		<array>
+			<string>mojo</string>
+			<string>site</string>
+			<string>site_name</string>
+			<string>site_path</string>
+			<string>link</string>
+			<string>login</string>
+			<string>page_list</string>
+			<string>page_title</string>
+			<string>keywords</string>
+			<string>page</string>
+			<string>description</string>
+			<string>layout</string>
+			<string>stylesheet</string>
+			<string>javascript</string>
+			<string>mojo_page_region</string>
+			<string>mojo_global_region</string>
+		</array>
+	</dict>
+	<key>uuid</key>
+	<string>DB5C0EB2-8289-4E8A-B479-15651DD5D096</string>
+</dict>
+</plist>

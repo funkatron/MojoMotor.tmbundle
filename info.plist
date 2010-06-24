@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>MojoMotor</string>
+	<key>ordering</key>
+	<array>
+		<string>DB5C0EB2-8289-4E8A-B479-15651DD5D096</string>
+		<string>3E3AB5D8-323B-41B6-9CDE-461F26321A6D</string>
+		<string>AB3D8562-654F-48D9-B1AF-36A6927998A2</string>
+		<string>018F7561-20EC-48E4-B4C9-C1D76BC3116E</string>
+		<string>29FB6DD4-B35C-4877-9952-B3F2972AF640</string>
+		<string>6FF02E70-9B0B-4AF3-BA9E-9936A7686C46</string>
+		<string>21C14B10-BFF1-4426-B285-7730249684D3</string>
+		<string>04A8FA70-AEC7-44A8-93D5-0D6E26045B4B</string>
+		<string>ADD9E796-0958-4AD9-9D0B-743DBF849DB5</string>
+		<string>0AE518E0-B373-46D7-9E4E-4815DA312576</string>
+		<string>D352BFBC-9567-4126-894B-ECF44ED9BB6E</string>
+	</array>
+	<key>uuid</key>
+	<string>ECAB9E69-6F21-4979-BD9D-A51CBB0571E9</string>
+</dict>
+</plist>
